@@ -58,7 +58,7 @@ What do you intend to do? (view, add) Or 'q' to quit : q
 
 ---
 
-## 🔐 Suggested Future Improvements
+## 🔐 Future Improvements I have in mind
 
 * Encrypt or hash passwords
 * Implement password masking while typing
